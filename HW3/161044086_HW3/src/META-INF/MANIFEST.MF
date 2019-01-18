@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: duraklefkan.gtu.cse443.hw3.question2.Main
+
